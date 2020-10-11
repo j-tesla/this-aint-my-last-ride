@@ -1,0 +1,6 @@
+# compiler's cache
+__pycache__/
+
+#jetbrains ide files
+.idea/
+
